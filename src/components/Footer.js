@@ -50,7 +50,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="absolute bottom-0 px-[4rem] left-0 text-center w-full bg-[#6b6b6b]">
-                <p>Coded by <a href="https://www.github.com/nathan-somto" className="mx-2 text-slate-900 font-semibold">Mayank</a>Copyright © 2024</p>
+                <p>Coded by <a href="https://www.github.com/mayank-3005/fackestore" className="mx-2 text-slate-900 font-semibold">Mayank</a>Copyright © 2024</p>
             </div>
         </footer>
     );
