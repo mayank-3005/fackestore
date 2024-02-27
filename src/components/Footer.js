@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="bg-[#252525] text-[#ebebeb] py-[3.38rem] px-[4rem] relative">
             <div className="flex flex-col space-y-4 lg:space-x-[25%] lg:space-y-0 lg:flex-row">
                 <div className="flex space-x-24 max-[500px]:flex-col max-[500px]:space-x-0 max-[500px]:space-y-4 lg:space-x-[25%]">
-                    <a href="/" className="uppercase font-bold">SmStore</a>
+                    <a href="/" className="uppercase font-bold">Fake-store</a>
                     <div className="flex space-x-4">
                         <a href="/products/category/jewelery" className="opacity-70 hover:opacity-100 transition-all ease-in duration-300 hover:text-white">Categories</a>
                         <a href="/about" className="opacity-70 hover:opacity-100 transition-all ease-in duration-300 hover:text-white">About</a>
